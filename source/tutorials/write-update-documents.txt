@@ -15,7 +15,7 @@ Update Documents
    :values: reference
 
 .. meta::
-   :keywords: code examples, write, change, edit
+   :keywords: code examples, write, change, edit, new
 
 Overview
 --------
